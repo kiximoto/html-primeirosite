@@ -1,0 +1,173 @@
+.herosection{
+display: block;
+font-family: sans-serif;
+margin-top: 100px;
+
+}
+
+
+.profilefoto{
+
+margin-top: 10px;
+border-radius: 50%;
+}
+
+
+.Gustavo{
+
+  color:black
+}
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: sans-serif;
+  
+}
+
+.start{
+
+padding-top: 100px;
+background-color: whitesmoke ;
+display: block;
+height: 486px;
+}
+
+
+h1{
+
+align-items: center;
+
+
+}
+
+
+
+.skils{
+
+
+color:black;
+
+display: grid;
+
+grid-template-columns: 1fr 1fr ;
+grid-template-rows: 1fr 1fr;
+
+gap: 10px;
+
+background-color:whitesmoke;
+
+}
+
+
+
+
+
+
+
+.TI{
+
+background-color: aquamarine;
+
+
+}
+
+
+.informaçãofoto{
+border-radius: 50%;
+width: 300px;
+height: 300px ;
+  border-left: 50px ;
+  margin-top: 30px;
+}
+
+
+.informaçãotexto{
+
+color: black;
+font-size: 2rem;
+font-weight: 700;
+}
+
+
+.mecanica{
+
+background-color: red;
+  grid-column: span 2;
+}
+
+
+.fadexfoto{
+
+  border-radius: 50%;
+  width: 300px;
+  height: 300px ;
+  border-left: 50px ;
+  margin-top: 30px;
+
+}
+
+.fadextexto{
+
+  color: black;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.mapeamentoprocessos{
+
+
+background-color: blue;
+
+}
+
+
+
+.ufpifoto{
+
+  border-radius: 50%;
+  width: 300px;
+  height: 300px ;
+  border-left: 50px ;
+  margin-top: 30px;
+
+}
+
+
+.ufpitexto{
+
+
+  color: black;
+  font-size: 2rem;
+  font-weight: 700;
+  
+}
+
+
+.social{
+
+display: flex;
+gap: 50px;
+}
+
+.socialparagrafo{
+
+  padding: 0;
+  margin: 0;
+  font-weight: 700;
+  
+}
+
+.pomba{
+  display: flex;
+  background-color: #40514e;
+  justify-content:  flex-end;
+  height: 100%;
+  width: 100%;
+  grid-column: span 2;
+  margin-right: 30px;
+  gap: 70px;
+}
+
+
